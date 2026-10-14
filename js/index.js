@@ -178,7 +178,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "تفاصيل المشروع: " + message
     ].join("\n");
 
-    const whatsappNumber = "966541093276";
+    const whatsappNumber = "966573049948";
     const whatsappUrl =
       "https://wa.me/" +
       whatsappNumber +
